@@ -1,0 +1,41 @@
+displayNames:
+  kon: Kikôngo
+  en: Kongo
+  fr: Kongo
+  fi: Kongo
+modes:
+  mobile:
+    default: |
+
+      a z e r t y u i o p
+
+      q s d f g h j k l m
+
+      w x c v b n
+    shift: |
+
+      A Z E R T Y U I O P
+
+      Q S D F G H J K L M
+
+      W X C V B N
+longpress:
+  A: Â á ã
+  E: É È Ê
+  I: Í Ï
+  O: Ó Ô
+  U: Û
+  a: â á ã
+  e: é è ê
+  i: í ï
+  o: ó ô
+  u: û
+  c: ç
+strings:
+  space: gaskoe
+  return: return
+targets:
+  ios:
+    legacyName: kon
+  android:
+    legacyName: kon
